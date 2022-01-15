@@ -1,0 +1,20 @@
+.class-text {
+    color:black;
+    background-color: lightcoral;
+    font-family:Verdana, sans-serif
+}
+.class-text.extra {
+    color:black;
+    background-color: lightcoral;
+    font-family:Verdana, sans-serif;
+    font-size: 24px
+}
+#Number2 {
+    color: blue;
+    font-size: 36px;
+}
+#Number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
